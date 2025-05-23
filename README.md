@@ -37,9 +37,9 @@ The SHHS dataset is on https://sleepdata.org/datasets/shhs
 
 
 
-## Training
+## Training & Evaluation
 
-To train the SleepAC model, run:
+To train & Evaluation the SleepAC model, run:
 
 ```bash
 python main.py
